@@ -10,7 +10,7 @@ const MovieHeader = () => {
           Tüm filmler
         </Link>
         <Link
-          to="/movies/add"
+          to="/add"
           className="myButton bg-green-700 hover:bg-green-600"
         >
           <i className="material-icons text-sm">&#xE147;</i>
